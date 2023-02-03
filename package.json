@@ -1,0 +1,14 @@
+{
+  "name": "hue-lights",
+  "version": "0.0.0",
+  "description": "Util to control my lights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
+}
